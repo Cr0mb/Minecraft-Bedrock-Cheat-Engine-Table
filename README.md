@@ -1,6 +1,9 @@
 # Minecraft-Bedrock-Cheat-Engine-Table
 This repository contains a Cheat Engine table for Minecraft (Windows version), designed to enhance the gameplay experience by allowing players to modify certain aspects of the game. The table includes several cheat entries such as health, max health, instant break, instant eating, coordinates, full bright, and XP manipulation.
 
+![image](https://github.com/user-attachments/assets/8fefceac-027b-4aa8-b9c5-eb7489be4430)
+
+
 ## Features
 ```
 - Player Health: Modify your current health.
@@ -12,7 +15,7 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 - XP Manipulation: Modify XP (Work in progress).
 ```
 
-## Notes
+## Notes (this will be updated soon.)
 - As of now for the XP_Write function you need to enable this first, you will notice in-game that you're xp value did not change.
 - To fix this, you need to change your XP value in game. You can do this by killing a mob or enchanting something, but the value must change you can't just fill the XP bar halfway or else it won't work.
 - So for example if your XP is level 1 whenever you toggle the script, your XP won't change to the desired value until you reach level 2.

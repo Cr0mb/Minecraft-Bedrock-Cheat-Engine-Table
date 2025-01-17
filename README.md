@@ -15,7 +15,14 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 - XP Manipulation: Modify XP (Work in progress).
 ```
 
-## Notes (this will be updated soon.)
+## Updates
+```
+- Added XP_Display as well as XP_Write (one controls the actual xp value and one controls the text on the xp bar.)
+- Added no friction (no operation for x and y velocity.)
+- Added Sneak Phasing (noclip)
+```
+
+## Notes (FIXED)
 - As of now for the XP_Write function you need to enable this first, you will notice in-game that you're xp value did not change.
 - To fix this, you need to change your XP value in game. You can do this by killing a mob or enchanting something, but the value must change you can't just fill the XP bar halfway or else it won't work.
 - So for example if your XP is level 1 whenever you toggle the script, your XP won't change to the desired value until you reach level 2.

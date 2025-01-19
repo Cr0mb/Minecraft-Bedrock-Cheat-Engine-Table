@@ -1,7 +1,13 @@
 # Minecraft-Bedrock-Cheat-Engine-Table
 This repository contains a Cheat Engine table for Minecraft (Windows version), designed to enhance the gameplay experience by allowing players to modify certain aspects of the game. The table includes several cheat entries such as health, max health, instant break, instant eating, coordinates, full bright, and XP manipulation.
 
-![image](https://github.com/user-attachments/assets/41f35c4d-ca1d-4337-bb68-c4c98147805a)
+![image](https://github.com/user-attachments/assets/41f35c4d-ca1d-4337-bb68-c4c98147805a)4
+
+
+## Tutorial videos
+[How to Create a Speed Hack](https://youtu.be/QHXdqz45FPk)
+[How to Create a God Mode](https://www.youtube.com/watch?v=1Kkrx97UBF8)
+[Airjump & FastBreak for Java](https://www.youtube.com/watch?v=ylsNXpjo-Qg) - Fast Break works the same in bedrock
 
 
 ## Features

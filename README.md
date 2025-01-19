@@ -18,6 +18,10 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 ```
 > Player Health: Modify your current health.
 > Max Health: Adjust your maximum health.
+> gappGod: God mode made from messing with gapples
+> gappGod2: Gives you gapple health (take dmg first)
+> Unlimited Gapple effect (must eat gapple)
+> Added noFireDisplay (removes flames)
 > Instant Break: Break blocks instantly.
 > Instant Eating: Eat food instantly.
 > Force Show Coordinates: Always show coordinates.
@@ -31,7 +35,15 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 > Speed Hack
 ```
 
-## Update 2
+## Update 3 1/19/2025
+```
+> Added gappGod - (doesn't affect gapple value) - God mode made from messing with gapples.
+> Added gappGod2 - gives you gapple health (golden hearts) - still has fall damage (has to take damage for it to take effect).
+> Unlimited gapple effect - must eat gapple.
+> Added noFireDisplay - Removes the flames from your camera's perspective whenever in fire.
+```
+
+## Update 2 1/18/2025
 ```
 > Added God Mode, (health, hunger, and no fall.)
 > Removed XP_Display (doesn't change functionality)
@@ -39,7 +51,7 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 > Added Speedhack
 ```
 
-## Updates
+## Updates 1/17/2025
 ```
 > Added XP_Display as well as XP_Write (one controls the actual xp value and one controls the text on the xp bar.)
 > Added no friction (no operation for x and y velocity.)

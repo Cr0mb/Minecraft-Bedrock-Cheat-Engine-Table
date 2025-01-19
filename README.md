@@ -6,20 +6,34 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 
 ## Features
 ```
-- Player Health: Modify your current health.
-- Max Health: Adjust your maximum health.
-- Instant Break: Break blocks instantly.
-- Instant Eating: Eat food instantly.
-- Force Show Coordinates: Always show coordinates.
-- FullBright: Enables 100% brightness, allowing you to see in dark areas.
-- XP Manipulation: Modify XP (Work in progress).
+> Player Health: Modify your current health.
+> Max Health: Adjust your maximum health.
+> Instant Break: Break blocks instantly.
+> Instant Eating: Eat food instantly.
+> Force Show Coordinates: Always show coordinates.
+> FullBright: Enables 100% brightness, allowing you to see in dark areas.
+> XP Manipulation: Modify XP.
+> X_Velocity (Removes friction on the X-Axis)
+> Y_Velocity (Removes friction on the Y-Axis)
+> No Friction (Both X & Y Velocity Friction is removed)
+> Sneak Phase
+> Anti Knockback
+> Speed Hack
+```
+
+## Update 2
+```
+> Added God Mode, (health, hunger, and no fall.)
+> Removed XP_Display (doesn't change functionality)
+> Added Anti Knockback
+> Added Speedhack
 ```
 
 ## Updates
 ```
-- Added XP_Display as well as XP_Write (one controls the actual xp value and one controls the text on the xp bar.)
-- Added no friction (no operation for x and y velocity.)
-- Added Sneak Phasing (noclip)
+> Added XP_Display as well as XP_Write (one controls the actual xp value and one controls the text on the xp bar.)
+> Added no friction (no operation for x and y velocity.)
+> Added Sneak Phasing (noclip)
 ```
 
 ## Notes (FIXED)

@@ -11,6 +11,8 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 
 [Airjump & FastBreak for Java](https://www.youtube.com/watch?v=ylsNXpjo-Qg) - Fast Break works the same in bedrock
 
+## UnknownCheats Forum Post
+[https://www.unknowncheats.me/forum/minecraft/682617-minecraft-bedrock-cheat-engine-table.html](https://www.unknowncheats.me/forum/minecraft/682617-minecraft-bedrock-cheat-engine-table.html)
 
 ## Features
 ```

@@ -6,7 +6,9 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 
 ## Tutorial videos
 [How to Create a Speed Hack](https://youtu.be/QHXdqz45FPk)
+
 [How to Create a God Mode](https://www.youtube.com/watch?v=1Kkrx97UBF8)
+
 [Airjump & FastBreak for Java](https://www.youtube.com/watch?v=ylsNXpjo-Qg) - Fast Break works the same in bedrock
 
 

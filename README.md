@@ -1,7 +1,8 @@
 # Minecraft-Bedrock-Cheat-Engine-Table
 This repository contains a Cheat Engine table for Minecraft (Windows version), designed to enhance the gameplay experience by allowing players to modify certain aspects of the game. The table includes several cheat entries such as health, max health, instant break, instant eating, coordinates, full bright, and XP manipulation.
 
-![image](https://github.com/user-attachments/assets/41f35c4d-ca1d-4337-bb68-c4c98147805a)4
+![image](https://github.com/user-attachments/assets/1f687821-5488-4cf0-a2c5-001103ff69cc)
+
 
 
 ## Tutorial videos

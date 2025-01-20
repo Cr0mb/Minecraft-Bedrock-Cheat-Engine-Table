@@ -36,6 +36,14 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 > Speed Hack
 ```
 
+## Update 4 1/19/2025
+```
+Added noFireDelay
+Added noFire
+Added type of spectator mode - take fall damage CANT BE REVERSED!
+```
+
+
 ## Update 3 1/19/2025
 ```
 > Added gappGod - (doesn't affect gapple value) - God mode made from messing with gapples.

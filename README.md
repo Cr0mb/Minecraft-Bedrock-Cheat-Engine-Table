@@ -4,7 +4,8 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 ![image](https://github.com/user-attachments/assets/75a94bd3-10c8-4f7e-9d7c-fabcc50f68be)
 
 
-
+## Update 4 Showcase
+[Cheat Showcase](https://www.youtube.com/watch?v=VqiRAJ0K94I)
 
 ## Tutorial videos
 [How to Create a Speed Hack](https://youtu.be/QHXdqz45FPk)

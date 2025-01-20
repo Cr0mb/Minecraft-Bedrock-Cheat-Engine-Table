@@ -18,30 +18,35 @@ This repository contains a Cheat Engine table for Minecraft (Windows version), d
 
 ## Features
 ```
-> Player Health: Modify your current health.
-> Max Health: Adjust your maximum health.
-> gappGod: God mode made from messing with gapples
-> gappGod2: Gives you gapple health (take dmg first)
-> Unlimited Gapple effect (must eat gapple)
-> Added noFireDisplay (removes flames)
-> Instant Break: Break blocks instantly.
-> Instant Eating: Eat food instantly.
-> Force Show Coordinates: Always show coordinates.
-> FullBright: Enables 100% brightness, allowing you to see in dark areas.
-> XP Manipulation: Modify XP.
-> X_Velocity (Removes friction on the X-Axis)
-> Y_Velocity (Removes friction on the Y-Axis)
-> No Friction (Both X & Y Velocity Friction is removed)
+- Stable Cheats
+> Health
+> Max Health
+> Unlimited Gapp Effect - must eat gapple
+> Instant Break
+> Instant Eating
+> Force Show coordinates
+> Fullbright
+> XP Modifier - must level up to take effect
+> No Friction for X & Z Velocity
 > Sneak Phase
 > Anti Knockback
 > Speed Hack
+> noFireDisplay
+> fireDelay
+> noFire
+
+- Buggy
+> God Mode (Hunger and Health) - makes entities invincible
+> gappGod2- (gives you gapple health & godmode)-still fall dmg - makes entities invincible
+> gappGod - (doesn't affect gapple value) - makes entities invincible
+> type of spectator mode - take fall damage CANT BE REVERSED!
 ```
 
 ## Update 4 1/19/2025
 ```
-Added noFireDelay
-Added noFire
-Added type of spectator mode - take fall damage CANT BE REVERSED!
+> Added noFireDelay
+> Added noFire
+> Added type of spectator mode - take fall damage CANT BE REVERSED!
 ```
 
 
